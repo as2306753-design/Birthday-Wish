@@ -113,7 +113,6 @@ button {
 
   <div class="slider">
     <img src="photo1.jpg" class="active">
-    <img src="photo2.jpg">
     <img src="photo3.jpg">
     <img src="photo4.jpg">
     <img src="photo5.jpg">
